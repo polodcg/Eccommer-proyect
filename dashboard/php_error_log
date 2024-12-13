@@ -1,0 +1,357 @@
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "symbol_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\sidebar.php on line 24
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "title_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\sidebar.php on line 25
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "title_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 65
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "symbol_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 83
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "font_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 100
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "font_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 101
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "color_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 114
+[10-Dec-2024 01:33:24 Europe/Berlin] PHP Warning:  Attempt to read property "back_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 129
+[10-Dec-2024 02:08:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[11-Dec-2024 00:46:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 00:47:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 00:47:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 01:58:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:15:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:29:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:31:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:32:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:34:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:34:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:35:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:36:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:37:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:46:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:48:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:54:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:54:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 02:56:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[11-Dec-2024 03:02:50 Europe/Berlin] PHP Warning:  Undefined array key "type_module" in C:\xampp\htdocs\ecommerce\dashboard\controllers\modules.controller.php on line 44
+[11-Dec-2024 05:31:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[12-Dec-2024 03:52:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[12-Dec-2024 04:13:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[12-Dec-2024 04:28:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[12-Dec-2024 04:33:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[13-Dec-2024 00:21:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'image_subcategory' in C:\xampp\htdocs\ecommerce\dashboard\controllers\modules.controller.php:399
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\controllers\modules.controller.php(399): PDOStatement->execute()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(371): ModulesController->manageModule()
+#2 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#4 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\controllers\modules.controller.php on line 399
+[13-Dec-2024 00:25:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[13-Dec-2024 00:29:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php on line 438
+[13-Dec-2024 00:29:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php on line 438
+[13-Dec-2024 00:47:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[13-Dec-2024 01:05:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[13-Dec-2024 01:36:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[13-Dec-2024 01:38:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[13-Dec-2024 01:41:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php:3
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\blocks.php(67): include()
+#1 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\manage.php(95): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\tables.php(70): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\dynamic.php(73): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\dashboard\views\template.php(288): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce\dashboard\controllers\template.controller.php(11): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce\dashboard\index.php(24): TemplateController->index()
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce\dashboard\views\pages\dynamic\tables\manage\blocks\forms\_json.php on line 3
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "symbol_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\sidebar.php on line 24
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "title_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\sidebar.php on line 25
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "title_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 65
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "symbol_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 83
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "font_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 100
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "font_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 101
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "color_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 114
+[13-Dec-2024 02:22:59 Europe/Berlin] PHP Warning:  Attempt to read property "back_admin" on null in C:\xampp\htdocs\ecommerce\dashboard\views\modules\modals\profile.php on line 129
